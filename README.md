@@ -1,4 +1,4 @@
-# Dijkstra's algorithm for shortest path
+# Visualise the shortest path using Dijkstra's algorithm
 
 ```python
 >>> from dijsktra import Graph
