@@ -1,5 +1,13 @@
 # Visualise shortest path using Dijkstra's algorithm
 
+## Features
+
+* Generate random graphs and parse from string
+* Calculate the shortest path
+
+## Examples
+
+
 ```python
 >>> from dijsktra import Graph
 >>> g = Graph.generate_random()
