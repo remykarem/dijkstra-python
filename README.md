@@ -48,3 +48,7 @@ toh tuck, bt timah, 4
 ```
 
 ![graph2-highlight](svg/graph-sg-highlight.svg)
+
+## Resources
+
+Priority queues using `heapq` in Python ([realpython.com](https://realpython.com/python-heapq-module/))
