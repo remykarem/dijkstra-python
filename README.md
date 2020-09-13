@@ -6,13 +6,13 @@
 >>> g.view()
 ```
 
-![graph](graph.svg)
+![graph](svg/graph-random.svg)
 
 ```python
 >>> g.find_shortest_path("g->f")
 ```
 
-![graph-highlighted](graph-highlight.svg)
+![graph-highlighted](svg/graph-random-highlight.svg)
 
 ```python
 >>> s = """
@@ -33,10 +33,10 @@ toh tuck, bt timah, 4
 >>> g.view()
 ```
 
-![graph2](graph2.svg)
+![graph2](svg/graph-sg.svg)
 
 ```python
 >>> g.find_shortest_path("teban->pie jeast")
 ```
 
-![graph2-highlight](graph2-highlight.svg)
+![graph2-highlight](svg/graph-sg-highlight.svg)
